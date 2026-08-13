@@ -1,0 +1,8 @@
+# 원본 데이터 (저작권상 비공개)
+data/raw/
+
+# 캐시/환경
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
